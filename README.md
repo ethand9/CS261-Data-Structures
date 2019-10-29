@@ -1,2 +1,2 @@
 # CS261-Data-Structures
-Homework programs for CS261 at Oregon State University
+This repository contains my homework programs for CS261 at Oregon State University.
